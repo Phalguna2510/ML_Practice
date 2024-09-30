@@ -1,1 +1,1 @@
-This folder contains the SVR dataset and collab notebook.
+This folder contains the Salary dataset and the SVR collab notebook.
