@@ -1,2 +1,2 @@
 # ML_Regression
-How I learnt basic regression techniques
+This repository consists the code of my practises while indulging in basic regression techniques using minor datasets.
